@@ -46,3 +46,4 @@ psql -h 127.0.0.1 -p 5432 -U postgres -d bd_biblioteca -f bd_biblioteca.sql
 - Seeders: `database/seeders/*Seeder.php`
 - `.env.example`
 
+# Se completó la Parte 1,2,3,4 del Proyecto. La parte 5 y 7 no me alacanzó el tiempo para realizarlas y la parte 6 me quedé en curso.
